@@ -2,10 +2,7 @@
 #include <stdio.h>
 
 int function(int x){
-    x = x - 2;
-    //bad line >:(
-    /* x = function(x); */
-	return x;
+    x = x - 2;	return x;
 }
 
 int main(){
