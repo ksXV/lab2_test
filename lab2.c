@@ -11,6 +11,7 @@ int function(int x){
 int main(){
 	int a=30, i=0;
 	
+    // sunt un smecher 
 	while (a>0){
 		a=function(a);
 		i++;
